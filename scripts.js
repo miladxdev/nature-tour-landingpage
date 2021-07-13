@@ -1,4 +1,4 @@
-// fucntion select element
+// select element function
 const selectElement = (s) => document.querySelector(s);
 
 // open menu
